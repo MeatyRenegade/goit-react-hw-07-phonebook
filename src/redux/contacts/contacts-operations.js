@@ -11,8 +11,7 @@ import {
   fetchContactError,
 } from './contacts-actions';
 
-axios.defaults.baseURL =
-  'https://my-json-server.typicode.com/meatyrenegade/goit-react-hw-07-phonebook';
+axios.defaults.baseURL = 'http://localhost:4040';
 
 export const fetchContacts = () => async dispatch => {
   dispatch(fetchContactRequest());
