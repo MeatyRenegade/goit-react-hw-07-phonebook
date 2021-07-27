@@ -1,3 +1,44 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "name": "dfgngjktyur",
+      "number": "23436578",
+      "id": 6
+    },
+    {
+      "name": "bfgthrtth",
+      "number": "34575678",
+      "id": 7
+    },
+    {
+      "name": "Mark",
+      "number": "24453667",
+      "id": 9
+    },
+    {
+      "name": "Cutnier",
+      "number": "29484583",
+      "id": 10
+    },
+    {
+      "name": "Kostja Pupkin",
+      "number": "26447734",
+      "id": 11
+    },
+    {
+      "name": "adadadad",
+      "number": "34255366",
+      "id": 12
+    },
+    {
+      "name": "Aleksandrs Barkancevs",
+      "number": "26-10-88-10",
+      "id": 13
+    },
+    {
+      "name": "asdad",
+      "number": "26-10-88-10",
+      "id": 14
+    }
+  ]
 }
